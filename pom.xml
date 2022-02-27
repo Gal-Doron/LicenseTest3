@@ -16,13 +16,7 @@
     <artifactId>pulsar-common</artifactId>
     <version>2.8.0.9</version>
 </dependency>
-<dependency>
-	<groupId>com.amazonaws</groupId>
-	<artifactId>aws-java-sdk</artifactId>
-	<version>1.11.856</version>
-</dependency>
-        
-      
+
 		
     </dependencies>
     <build>
