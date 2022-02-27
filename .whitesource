@@ -6,11 +6,13 @@
     "baseBranches": []
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure",
+    "enableLicenseViolations": "true",
+    "vulnerableCheckRunConclusionLevel": "none",
+    "licenseCheckRunConclusionLevel": "failure",
     "displayMode": "diff"
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW",
+    "minSeverityLevel": "NONE",
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
