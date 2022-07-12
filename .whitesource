@@ -1,8 +1,15 @@
 {
-  "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
   "scanSettings": {
     "configMode": "EXTERNAL",
-	"configExternalURL": "https://github.com/Gal-Doron/LicenseTest3/blob/main/whitesource.config"
+	"configExternalURL": "https://github.com/Gal-Doron/LicenseTest3/blob/main/whitesource.config",
+	"projectToken": "",
+	"baseBranches": []
+  },
+  "checkRunSettings": {
+    "displayMode": "diff",
+    "vulnerableCheckRunConclusionLevel": "failure"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
   }
-  
 }
