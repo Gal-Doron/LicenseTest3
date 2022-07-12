@@ -1,3 +1,8 @@
 {
-  "settingsInheritedFrom": "Gal-Doron/whitesource-config@main"
+  "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
+  "scanSettings": {
+    "configMode": "EXTERNAL",
+	"configExternalURL": "https://github.com/Gal-Doron/LicenseTest3/blob/main/whitesource.config"
+  }
+  
 }
